@@ -14,8 +14,8 @@ sidebar: howtologin
 
 #### 开发者选择合适的场景，进行用户登录引导：
 
-1. 全页功能触发：页面中的所有内容均需要登录才能浏览/操作; 
-2. 局部功能模块触发：页面中的部分内容模块，需要登录才能浏览/操作;
+1. 全页功能触发：页面中的所有内容均需要登录才能浏览/操作；
+2. 局部功能模块触发：页面中的部分内容模块，需要登录才能浏览/操作；
 3. 个人中心触发：在个人中心场景下，由未登录头像、按钮、说明文案组合构成。
 
 <div class="m-doc-custom-examples">
@@ -35,13 +35,16 @@ sidebar: howtologin
 
 #### 设计全页/局部模块的登录引导时，建议围绕当前场景，配置相应的图标和文案说明、登录入口：
 
-<p sclass="m-doc-custom-examples-text">示例1：我关注的人、我的评论等全页登录引导场景按不同的场景配置了不同的功能图标和登录说明引导文案；<br>
+<p sclass="m-doc-custom-examples-text">示例1：我关注的人、我的评论等全页登录引导场景，按不同的场景配置不同的功能图标和登录说明引导文案；<br>
 示例2：使用局部功能模块登录引导时，可适当展现更多推荐内容。</p>
 <div class="m-doc-custom-examples">
 	<div class="m-doc-custom-examples-correct">
 		<img src="https://b.bdstatic.com/searchbox/icms/searchbox/img/02282.png">
 	</div>
 </div>
+
+> 你可直接使用智能小程序相关体验资产。（[查看开发文档](https://smartprogram.baidu.com/docs/develop/extended/ui_component/smt-icon/)）
+
 
  ## 二、选择登录的交互流程
 
